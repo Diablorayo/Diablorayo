@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diablorayo
 - 👀 I’m interested in video games and board games. 
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...I am not sure. I am still alittle new.
+- 💞️ I’m looking to collaborate on ...I am not sure.
 - 📫 How to reach me ...
 
 <!---
